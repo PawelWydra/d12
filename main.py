@@ -59,5 +59,5 @@ list_of_addresses = [
                     '02-326'
                     ))
     ]
-for address in list_of_addresses:
-    print(f"{address} \n" + (20 * "_"))
+for item in list_of_addresses:
+    print(f"{item} \n" + (20 * "_"))
